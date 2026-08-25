@@ -1,0 +1,19 @@
+{
+  "appTitle": "Police Complaint System",
+  "login": "Login",
+  "register": "Register",
+  "welcome": "Welcome",
+  "myComplaints": "My Complaints",
+  "fileComplaint": "File Complaint",
+  "profile": "Profile",
+  "logout": "Logout",
+  "title": "Title",
+  "description": "Description",
+  "location": "Location",
+  "status": "Status",
+  "submit": "Submit",
+  "sos": "SOS",
+  "language": "Language",
+  "english": "English",
+  "somali": "Somali"
+}
